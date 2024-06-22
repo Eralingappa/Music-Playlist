@@ -89,6 +89,7 @@ class MusicPlayList extends Component {
     searchInput: '',
     playList: initialTracksList,
   }
+
   onChangeSearchInput = event => {
     this.setState({searchInput: event.target.value})
   }

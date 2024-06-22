@@ -1,6 +1,5 @@
 import './App.css'
-import MusicPlayList from './components/MusicPlayList'
-
+import MusicPlayList from './compoments/MusicPlayList'
 const App = () => <MusicPlayList />
 
 export default App
